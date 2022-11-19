@@ -1,0 +1,5 @@
+server 10.5.44.2    puerto 1080
+no proxy para :  *.jovenclub.cu;*.cubava.cu;cubava.cu
+
+Usuario:invitado0601
+Password:invitado
